@@ -3,9 +3,7 @@
     margin:0;
     font-family: "Roboto", sans-serif;
 }
-body{
-    overflow-y: hidden;
-}
+
 .navbar{
     height: 70px;
     width:100%;
@@ -82,6 +80,7 @@ body{
     object-position: center;
     
 }
+ 
 
 .box2{
     padding-top:4vh;
