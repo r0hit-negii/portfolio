@@ -16,12 +16,17 @@
     align-items: center;
     overflow-X:hidden;
 }
+.logo a {
+    text-decoration: none;
+    color:#ff3131;
+}
 .logo h2 {
     color:#ff3131; 
     font-size: 6vh;
     text-transform:capitalize;
     transition: 500ms ease-out;
     margin-right:3vw;
+    
 }
 .logo h2:hover{
     transform:scale(1.2);
